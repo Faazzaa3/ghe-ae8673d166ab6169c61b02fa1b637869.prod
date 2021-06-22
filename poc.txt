@@ -1,1 +1,1 @@
-FAAZZAA3 IS HEEEEEERRRRRRREEEEEEEEE
+<pre>system('cat /etc/passwd')</pre>
